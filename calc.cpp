@@ -1,4 +1,3 @@
-```c++
 #include <iostream>
 #include <math.h>
 using namespace std;
@@ -56,4 +55,3 @@ cin>>ch;
 }
 return 0;
 }
-```
